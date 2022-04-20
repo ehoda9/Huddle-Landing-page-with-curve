@@ -1,0 +1,86 @@
+#font-sizes
+.h1 -To- .h6
+.text-1 -To- .text-6
+
+#display
+
+.display-none
+.display-block
+.display-flex
+.display-grid
+.display-inline
+.display-inline-block
+.display-inline-flex
+
+#positions
+.fixed
+.static
+.relative
+.absolute
+.sticky
+
+//flexbox
+.flex
+.flex-center
+.flex-space-around
+.flex-space-between
+.flex-space-evenly
+.flex-end
+.flex-start
+.flex-row
+.flex-row-reverse
+.flex-column
+.flex-column-reverse
+.flex-wrap
+.flex-wrap-reverse
+.flex-nowrap
+.flex-self-center
+
+#buttons
+btn
+btn-lg
+btn-md
+btn-sm
+btn-auto
+btn-full
+
+#border
+btn-rounded
+btn-lg-rounded
+btn-md-rounded 
+btn-sm-rounded
+
+#colors
+btn-primary
+btn-green
+btn-red
+btn-orange
+btn-yellow
+btn-black
+btn-cyan
+btn-violet
+btn-blue
+btn-pink
+
+#keyboard btns
+btn-key-primary
+btn-key-orange
+btn-key-blue
+
+#bg-btns
+btn-modern
+
+#other_btn
+btn-punch-primary
+btn-punch-violet
+btn-punch-red
+btn-punch-yellow
+ ##punches color
+punch-light
+punch-dark
+punch-transparent
+
+#wavy-btns
+div or a --> .wave
+span --> .btn-wave , .btn-wave-sm , .btn-wave-md , .btn-wave-lg, .btn-wave-fit
+span --> .btn-wave-text
